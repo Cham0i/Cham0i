@@ -1,10 +1,15 @@
 <h1>Howdy, I'm Scott, an <a href="https://linkedin.com/in/scott-garcia-calvillo-b28955265/">IT Professional</a></h1>
 
-<h2>Information Technology Projects:</h2>
+### Information Technology Projects:
 
-- <b>VPN Set Up (Proton VPN)</b>
-  - [ProtonVPN: Installation](https://github.com/)
-  
-- <b>Microsoft Azure</b>
-  - [Configuring Active Directory in Azure VMs]
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols]
+- **Microsoft Azure**
+  - [Configuring Active Directory Domain Services with VMs](https://github.com/Cham0i/AD-creation-Azure)
+  - [File Sharing](https://github.com/Cham0i/AD-File-Sharing)
+  - [DNS Configuration](https://github.com/Cham0i/Understanding-DNS)
+- **Cyber Security**
+  - [When and How to use a VPN]()
+  - [Why and How to use a U2F Key]()
+
+### Other Projects/ Articles:
+- Personal Discord Music Bot
+- A (mostly legal) Guide to BitTorrents and Pirating
