@@ -8,9 +8,9 @@
   - [DNS Understanding](https://github.com/Cham0i/Understanding-DNS)
   - 
 - **Cybersecurity**
-  - [When and How to use a VPN]
-  - [Why and How to use a U2F Key]
+  - When and How to use a VPN
+  - Why and How to use a U2F Key
 
 ### Miscellaneous Projects:
 - Personal Discord Music Bot
-- A (mostly legal) Guide to BitTorrents and Pirating
+
