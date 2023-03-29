@@ -4,14 +4,19 @@
 
 - **Microsoft Azure**
   - [Configuring Active Directory Domain Services with Azure VMs](https://github.com/Cham0i/AD-creation-Azure)
+    - Domain Controller and Clients (Master-Slave Architecture)
+    - RDP (Remote Desktop Protocol)
   - [File Sharing within Active Directory](https://github.com/Cham0i/AD-File-Sharing)
+    - Security Groups
   - [DNS Understanding](https://github.com/Cham0i/Understanding-DNS)
+    - DNS Commands
+    - A-Records and CNAME Records
+    - Cache, Host Files, and DNS servers
 
 - **Cybersecurity**
-  - When and How to use a VPN
-  - Why and How to use a U2F Key
+  - Cybersecurity 101 for the common man
 
 ### Miscellaneous Projects:
 - Personal Discord Music Bot
 - [Cosmic Horror HTML demo](https://replit.com/@Cham0i/CS50xCourseWebsite?v=1)
-- [Some dumb game I made sleep deprived](https://scratch.mit.edu/projects/783434344/)
+- [Some dumb game I whilst sleep deprived](https://scratch.mit.edu/projects/783434344/)
