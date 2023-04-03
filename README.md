@@ -14,7 +14,8 @@
     - Cache, Host Files, and DNS servers
 
 - **Cybersecurity**
-  - [Cybersecurity 101 for the common man](https://github.com/Cham0i/Cybersec-101)
+  - [Cybersecurity 101 for the commonman](https://github.com/Cham0i/Cybersec-101)
+  - Cybersecurity 102 for criminals trying to avoid prosecution
 
 ### Miscellaneous Projects:
 - Personal Discord Music Bot
