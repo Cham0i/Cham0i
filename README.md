@@ -16,9 +16,7 @@
 - **Cybersecurity**
   - [Cybersecurity 101 for the commonman](https://github.com/Cham0i/Cybersec-101)
     - HTML Cookies
-    - HTTPS
-    - SSL Certificates
-    - Phishing
+    - HTTPS and SSL Certificates
     - Password creation and storage
   - Cybersecurity 102 for criminals trying to avoid prosecution
     - TOR and .onion
