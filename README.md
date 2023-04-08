@@ -15,7 +15,19 @@
 
 - **Cybersecurity**
   - [Cybersecurity 101 for the commonman](https://github.com/Cham0i/Cybersec-101)
+    - HTML Cookies
+    - HTTPS
+    - SSL Certificates
+    - Phishing
+    - Password creation and storage
   - Cybersecurity 102 for criminals trying to avoid prosecution
+    - TOR and .onion
+    - Conducting OPSEC
+    - Case studies of what not to do:
+      - Eldo Kim, Haravard Bomb Threat
+      - Ross Ulbritch, A.K.A "Dread Pirate Roberts"
+      - Conor Fitzpatrick. A.K.A "PomPomPurin"
+      - Lulzsec
 
 ### Miscellaneous Projects:
 - Personal Discord Music Bot
