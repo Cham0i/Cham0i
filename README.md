@@ -22,4 +22,4 @@
 ### Miscellaneous Projects:
 - Personal Discord Music Bot
 - [Cosmic Horror HTML demo](https://replit.com/@Cham0i/CS50xCourseWebsite?v=1)
-- [Some dumb game I whilst sleep deprived](https://scratch.mit.edu/projects/783434344/)
+- [Stupid Scratch Game](https://scratch.mit.edu/projects/783434344/)
