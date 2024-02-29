@@ -1,10 +1,10 @@
-<h1>Hello, I'm Scott, an <a href="https://linkedin.com/in/scott-garcia-calvillo-b28955265/">IT Professional</a></h1>
+<h1>Hello, I'm Scott, and I <a href="https://linkedin.com/in/scott-garcia-calvillo-b28955265/">seek employement.</a></h1> Hire me.
 
 ### Information Technology Projects:
 
 - **Microsoft Azure**
   - [Configuring Active Directory Domain Services with Azure VMs](https://github.com/Cham0i/AD-creation-Azure)
-    - Domain Controller and Clients (Master-Slave Architecture)
+    - Domain Controller and Clients
     - RDP (Remote Desktop Protocol)
   - [File Sharing within Active Directory](https://github.com/Cham0i/AD-File-Sharing)
     - Security Groups
@@ -23,3 +23,4 @@
 - Personal Discord Music Bot
 - [Cosmic Horror HTML demo](https://replit.com/@Cham0i/CS50xCourseWebsite?v=1)
 - [Stupid Scratch Game](https://scratch.mit.edu/projects/783434344/)
+- [25B Guide (100% speedrun, no glitch)](https://github.com/Cham0i/Netacad)
