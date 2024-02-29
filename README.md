@@ -1,4 +1,4 @@
-<h1>Hello, I'm Scott, and I <a href="https://linkedin.com/in/scott-garcia-calvillo-b28955265/">seek employement.</a></h1> Hire me.
+<h1>Hello, I'm Scott, and <a href="https://linkedin.com/in/scott-garcia-calvillo-b28955265/">I seek employement.</a></h1> //Hire me
 
 ### Information Technology Projects:
 
