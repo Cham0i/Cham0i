@@ -18,9 +18,14 @@
     - HTML Cookies
     - HTTPS and SSL Certificates
     - Password creation and storage
-
-### Miscellaneous Projects:
-- Personal Discord Music Bot
-- [Cosmic Horror HTML demo](https://replit.com/@Cham0i/CS50xCourseWebsite?v=1)
-- [Stupid Scratch Game](https://scratch.mit.edu/projects/783434344/)
-- [25B Guide (100% speedrun, no glitch)](https://github.com/Cham0i/Netacad)
+  - Spider-Man stole that guy's Pizza (using a FlipperZero)
+     - Security Keys
+     - Dallas Keys
+     - Near Field Communications (NFC)
+     - Rolling Codes
+    
+- ### Miscellaneous Projects:
+  - Personal Discord Music Bot
+  - [Cosmic Horror HTML demo](https://replit.com/@Cham0i/CS50xCourseWebsite?v=1)
+  - [Stupid Scratch Game](https://scratch.mit.edu/projects/783434344/)
+  - [25B Guide (100% speedrun, no glitch)](https://github.com/Cham0i/Netacad)
