@@ -1,4 +1,5 @@
-<h1>Hello, I'm Scott, and <a href="https://linkedin.com/in/scott-garcia-calvillo-b28955265/">I seek employement.</a></h1> //Hire me
+<h1>Howdy, <a href="https://linkedin.com/in/scott-garcia-calvillo-b28955265/">I am Scott</a></h1>
+//Technology is just socially acceptable magic//
 
 ### Information Technology Projects:
 
@@ -23,9 +24,17 @@
      - Dallas Keys
      - Near Field Communications (NFC)
      - Rolling Codes
+
+- **Cisco**
+  - [The NetAcad Guide](https://github.com/Cham0i/Netacad)
+    - Inter-VLAN Routing
+    - Port Security
+    - Network Medias
+    - Network design and architecture
+    - Dynamic Host Configuration Protocol
+    - Network Address Translation
     
 - ### Miscellaneous Projects:
   - Personal Discord Music Bot
   - [Cosmic Horror HTML demo](https://replit.com/@Cham0i/CS50xCourseWebsite?v=1)
   - [Stupid Scratch Game](https://scratch.mit.edu/projects/783434344/)
-  - [25B Guide (100% speedrun, no glitch)](https://github.com/Cham0i/Netacad)
