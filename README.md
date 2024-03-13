@@ -19,7 +19,7 @@
     - HTML Cookies
     - HTTPS and SSL Certificates
     - Password creation and storage
-  - [Spider-Man stole that guy's Pizza (using a FlipperZero)]()
+  - Other
      - Security Keys
      - Dallas Keys
      - Near Field Communications (NFC)
