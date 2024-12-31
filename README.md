@@ -19,19 +19,10 @@
     - HTML Cookies
     - HTTPS and SSL Certificates
     - Password creation and storage
-  - Other
-     - Security Keys
-     - Dallas Keys
-     - Near Field Communications (NFC)
-     - Rolling Codes
 
-- **Cisco**
-    - Inter-VLAN Routing
-    - Port Security
-    - Network Medias
-    - Network design and architecture
-    - Dynamic Host Configuration Protocol
-    - Network Address Translation
+- ### Notes:
+   - [Cisco Network Academy/ 25B](https://github.com/Cham0i/Netacad)
+   - [CompTIA Security +](https://github.com/Cham0i/SecPlus)
     
 - ### Miscellaneous Projects:
   - Personal Discord Music Bot
